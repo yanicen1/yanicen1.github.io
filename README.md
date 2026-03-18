@@ -1,5 +1,3 @@
-<div align="center">
-
 # Portfolio
 
 ## About Me
@@ -7,5 +5,3 @@ Data Scientist & Analyst with a PhD blending predictive modeling, statistical an
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/andrey-yankin/)
 [![GitHub Pages](https://img.shields.io/badge/Portfolio-GitHub%20Pages-orange)](https://yanicen1.github.io/)
-
-</div>
