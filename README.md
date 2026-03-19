@@ -1,18 +1,17 @@
 # Portfolio
 
-## About Me
-Data Scientist & Analyst with a PhD blending predictive modeling, statistical analysis, and engineering. 10+ years of international experience with multi-million dollar projects (e.g., Trinity College Dublin, Johnson & Johnson). Delivered 44% material performance gains via Data Analysis and Python/ML models.  
+## 👨‍💼About Me
+**Data Scientist & Analyst | PhD** blending ML, engineering, and statistical analysis. 10+ years of international experience with multi-million dollar projects (e.g., Trinity College Dublin, Johnson & Johnson). Delivered **44% performance gains** via Data Analysis and Python/ML models.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/andrey-yankin/)
-[![GitHub Pages](https://img.shields.io/badge/Portfolio-GitHub%20Pages-orange)](https://yanicen1.github.io/)
 
-## Projects
+## 🛠️ Projects
 - [**Feedstock Quality Optimization**](https://github.com/yanicen1/Additive-Manufacturing-Suitability-Factor) — Composite metric optimized manufacturing processes: **2x faster production, 15% less waste, 13% quality gain, 50% defect reduction**.
 Published: *Powder Tech* 2024, *Sci Rep* 2025.
 - [**Product Performance Dashboard**](https://github.com/yanicen1/Analysis_Fatigue_Strength_Additively_Manufactured_Aluminum_Alloy) — Analysis dashboard driving **2x material cost reduction**.
 - [**Material Damage Prediction**](https://github.com/yanicen1/Damage-Accumulation-Machine-Learning) — ML acoustic damage model hitting **R²=0.94** (vs 0.90 baseline).
 
-## Skills
+## 🧠 Skills
 - **Tools**: Python (Pandas, NumPy), SQL, Excel
 - **Visualization**: Power BI, Tableau, Matplotlib, Seaborn
 - **Statistical Analysis**: Statsmodels, SciPy, DoE, ANOVA/ANCOVA, Regression, t-test, PDFs/CDFs, ...
